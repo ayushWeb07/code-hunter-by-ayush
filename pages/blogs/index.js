@@ -4,7 +4,7 @@ import { useState } from 'react'
 import axios from 'axios'
 import Link from 'next/link'
 
-export default function blogs(props) {
+export default function Blogs(props) {
 
     const [blogs, setBlogs] = useState(props?.allBlogs)
 
@@ -25,7 +25,7 @@ export default function blogs(props) {
                 <div className={styles.blogs_grid} >
 
                     {blogs?.length > 0 ? blogs?.map((b) => {
-                        return <Link href={`blogs/${b?.slug}`}>
+                        return <Link href={`blogs/${b?.slug}`} key={b?.slug} >
                             <div className={styles.card} >
                                 <h2>
                                     {b?.title}

@@ -4,7 +4,7 @@ import styles from '../../styles/Blog.module.css'
 import Head from 'next/head'
 
 
-export default function blog(props) {
+export default function Blog(props) {
 
     const [blog, setBlog] = useState(props?.blog)
 
