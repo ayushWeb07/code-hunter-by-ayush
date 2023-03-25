@@ -1,0 +1,5 @@
+{
+    "title": "Arrays in JavaScript",
+    "description": "Arrays are used to store multiple values in a single variable. In JavaScript, you can create an array by enclosing a list of values in square brackets. Arrays can hold various types of data, including strings, numbers, booleans, and even other arrays. You can access individual elements in an array using the index number, and you can manipulate arrays using methods like push(), pop(), shift(), unshift(), slice(), and splice().",
+    "slug": "arrays-in-javascript"
+}

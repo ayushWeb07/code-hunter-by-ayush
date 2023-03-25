@@ -1,0 +1,5 @@
+{
+    "title": "Object-Oriented Programming in JavaScript",
+    "description": "Object-oriented programming (OOP) is a popular programming paradigm that is used to organize code and data in a structured way. JavaScript is a versatile language that can be used to implement OOP principles. In JavaScript, objects are used to represent entities in the real world, such as users, cars, or books. Objects are composed of properties, which are used to store data, and methods, which are used to perform actions. Properties can be assigned any value, including other objects, while methods are functions that can be called on the object.",
+    "slug": "object-oriented-programming-in-javascript"
+}

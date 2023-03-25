@@ -1,0 +1,5 @@
+{
+    "title": "Asynchronous JavaScript",
+    "description": "Asynchronous programming in JavaScript allows you to execute code without blocking the main thread, which can improve the performance and responsiveness of your web applications. Asynchronous code is executed in the background, while the main thread continues to execute other code. Callbacks are a common way to implement asynchronous programming in JavaScript. A callback is a function that is passed as an argument to another function, and is executed when that function completes its task. Callbacks can be used to handle asynchronous operations like fetching data from a server or performing a time-consuming calculation.",
+    "slug": "asynchronous-javascript"
+}

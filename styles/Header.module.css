@@ -1,0 +1,46 @@
+.header {
+    padding: 3% 5%;
+}
+
+.header ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 40px;
+    list-style: none;
+}
+
+.header ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.header ul li a svg {
+    /* color: rgb(50, 50, 50); */
+    font-size: 18px;
+}
+
+.header ul li a span {
+    /* color: rgb(50, 50, 50); */
+    font-size: 18px;
+}
+
+.inactiveLink svg,
+.inactiveLink span {
+    color: rgb(50, 50, 50);
+}
+
+.activeLink svg,
+.activeLink span {
+    color: black;
+    font-weight: 600;
+}
+
+/* Design for <= 500px devices */
+@media (max-width:500px) {
+    .header {
+        padding: 5%;
+    }
+}

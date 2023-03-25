@@ -1,0 +1,5 @@
+{
+    "title": "Conditional Statements in JavaScript",
+    "description": "Conditional statements are an important part of programming, and JavaScript provides several ways to use them. The most basic conditional statement is the if statement, which is used to execute code if a condition is true. The else statement can be used with if to execute code if the condition is false. The else if statement can be used to check multiple conditions. The switch statement is another way to check multiple conditions and execute different code depending on the value of a variable.",
+    "slug": "conditional-statements-in-javascript"
+}

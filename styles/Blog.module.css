@@ -1,0 +1,36 @@
+.blog {
+    padding: 3% 5% 5% 5%;
+}
+
+.blog>h1 {
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 3%;
+}
+
+.blog>p {
+    color: rgb(57, 57, 57);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 2.2;
+    white-space: break-spaces;
+}
+
+.loading {
+    padding: 3% 5% 5% 5%;
+}
+
+/* Design for <= 650px devices */
+@media (max-width:650px) {
+
+    .blog {
+        padding: 7% 5% 10% 5%;
+    }
+
+    .blog>h1 {
+        margin-bottom: 7%;
+        font-size: 35px;
+    }
+
+}

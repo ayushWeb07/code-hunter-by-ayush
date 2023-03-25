@@ -1,0 +1,5 @@
+{
+    "title": "Events in JavaScript",
+    "description": "Events in JavaScript are actions or occurrences that happen in the browser, such as a user clicking a button or moving the mouse over an element. You can use JavaScript to listen for these events and trigger actions in response, such as displaying a message or updating the contents of a web page.",
+    "slug": "events-in-javascript"
+}

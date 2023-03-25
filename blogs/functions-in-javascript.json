@@ -1,0 +1,5 @@
+{
+    "title": "Functions in JavaScript",
+    "description": "Functions are reusable blocks of code that perform a specific task. In JavaScript, you can create a function by using the function keyword, followed by the function name, and a set of parentheses that contain any arguments that the function will accept. Inside the function, you can write any code that you want to be executed when the function is called. Functions can return a value using the return keyword.",
+    "slug": "functions-in-javascript"
+}

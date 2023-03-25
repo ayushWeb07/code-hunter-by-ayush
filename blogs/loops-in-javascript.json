@@ -1,0 +1,5 @@
+{
+    "title": "Loops in JavaScript",
+    "description": "Loops are used in programming to execute a block of code multiple times. JavaScript provides three types of loops: for loops, while loops, and do-while loops. The for loop is used to execute code a specific number of times, while the while loop is used to execute code as long as a condition is true. The do-while loop is similar to the while loop, but it executes the code at least once, even if the condition is false.",
+    "slug": "loops-in-javascript"
+}

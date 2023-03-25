@@ -1,0 +1,5 @@
+{
+    "title": "DOM Manipulation with JavaScript",
+    "description": "The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the structure of a document as a tree of objects, and provides methods and properties for manipulating the elements and attributes of the document. With JavaScript, you can use the DOM to add, remove, and modify HTML and CSS content dynamically, without having to reload the page.",
+    "slug": "dom-manipulation-with-javascript"
+}

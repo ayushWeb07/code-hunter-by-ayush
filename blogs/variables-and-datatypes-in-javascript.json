@@ -1,0 +1,5 @@
+{
+    "title": "Variables and Data Types in JavaScript",
+    "description": "Variables are an essential part of any programming language, and JavaScript is no exception. Variables are used to store data, such as strings, numbers, booleans, arrays, and objects. In JavaScript, you can declare variables using the var, let, or const keyword. The var keyword is used to declare variables that can be re-assigned, while the let keyword is used to declare variables that can be re-assigned within the same block scope. The const keyword is used to declare variables that cannot be re-assigned. To assign a value to a variable, you use the assignment operator = followed by the value.",
+    "slug": "variables-and-datatypes-in-javascript"
+}
